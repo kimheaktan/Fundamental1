@@ -1,0 +1,11 @@
+/Users/user/coding dojo/csharpNew/Fundamental1/bin/Debug/netcoreapp2.2/Fundamental1.deps.json
+/Users/user/coding dojo/csharpNew/Fundamental1/bin/Debug/netcoreapp2.2/Fundamental1.runtimeconfig.json
+/Users/user/coding dojo/csharpNew/Fundamental1/bin/Debug/netcoreapp2.2/Fundamental1.runtimeconfig.dev.json
+/Users/user/coding dojo/csharpNew/Fundamental1/bin/Debug/netcoreapp2.2/Fundamental1.dll
+/Users/user/coding dojo/csharpNew/Fundamental1/bin/Debug/netcoreapp2.2/Fundamental1.pdb
+/Users/user/coding dojo/csharpNew/Fundamental1/obj/Debug/netcoreapp2.2/Fundamental1.csprojAssemblyReference.cache
+/Users/user/coding dojo/csharpNew/Fundamental1/obj/Debug/netcoreapp2.2/Fundamental1.csproj.CoreCompileInputs.cache
+/Users/user/coding dojo/csharpNew/Fundamental1/obj/Debug/netcoreapp2.2/Fundamental1.AssemblyInfoInputs.cache
+/Users/user/coding dojo/csharpNew/Fundamental1/obj/Debug/netcoreapp2.2/Fundamental1.AssemblyInfo.cs
+/Users/user/coding dojo/csharpNew/Fundamental1/obj/Debug/netcoreapp2.2/Fundamental1.dll
+/Users/user/coding dojo/csharpNew/Fundamental1/obj/Debug/netcoreapp2.2/Fundamental1.pdb
